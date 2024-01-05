@@ -1,0 +1,65 @@
+.A{
+    display: flex;
+}
+.AA{
+    margin-top: 1500px;
+    margin: 100px;
+}
+.AB{
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.B{
+    position: relative;
+}
+.bc{
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    text-align: center;
+    font-size: large;
+}
+.bd{
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    text-align: center;
+    font-size: large ;
+}
+.be{
+    position: absolute;
+    top: 150px;
+    left: 950px;
+    text-align: center;
+    font-size: large ;
+}
+.C{
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.D{
+    position: relative;
+    background-color: rgb(95, 95, 143) ;
+    width: 100%;
+    height: 500px;
+}
+.da{
+    border: 2px solid white;
+    border-style: dashed;
+    position: absolute;
+    left: 300px;
+    top: 170px;
+    padding: 70px;
+font-size: x-large;
+}
+.db{
+    border: 2px solid white;
+    border-style: dashed;
+    position: absolute;
+    left: 700px;
+    top: 170px;
+    padding: 70px;
+font-size: x-large;
+}
